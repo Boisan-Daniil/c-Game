@@ -1,0 +1,34 @@
+﻿  Source.cpp
+C:\Users\123\Desktop\glhf — копия\project123\Base.h(26,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Base.h(26,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Unit.h(233,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Unit.h(233,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Factory.h(20,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Factory.h(20,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Mine.h(20,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Mine.h(20,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(351,35): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(353,35): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(355,35): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(358,39): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(360,41): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(362,40): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(364,43): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(367,36): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(369,36): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(371,36): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(374,40): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(376,42): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(378,41): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\AllUi.h(380,44): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\123\Desktop\glhf — копия\project123\ClientSideNetworking.h(48,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Source.cpp(33,20): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Source.cpp(37,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Source.cpp(38,23): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+  Unit.cpp
+C:\Users\123\Desktop\glhf — копия\project123\Base.h(26,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Base.h(26,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Unit.h(233,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\123\Desktop\glhf — копия\project123\Unit.h(233,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  project123.vcxproj -> C:\Users\123\Desktop\glhf — копия\x64\Debug\project123.exe
